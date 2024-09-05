@@ -1,0 +1,7 @@
+package kodlamaio.hrms.business.concretes.cvInformationManagers;
+
+import kodlamaio.hrms.business.abstracts.cvInformationServices.CandidateTalentInformationService;
+
+public class CandidateTalentInformationManager implements CandidateTalentInformationService{
+
+}
